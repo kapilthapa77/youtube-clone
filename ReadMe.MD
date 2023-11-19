@@ -1,6 +1,6 @@
 
 ### Results:
 
-![Home Page](youtubehomepage.png?raw=true "Home page")
+![Home Page](youtube-cloneb6youtubehomepage.png?raw=true "Home page")
 
-![Video Page](videopage.png?raw=true "Video page")
+![Video Page](youtubecloneb6-videopage.png?raw=true "Video page")
